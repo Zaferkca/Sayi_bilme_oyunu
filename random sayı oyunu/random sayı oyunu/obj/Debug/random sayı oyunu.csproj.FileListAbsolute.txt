@@ -1,0 +1,7 @@
+D:\visalll\random sayı oyunu\random sayı oyunu\bin\Debug\random sayı oyunu.exe.config
+D:\visalll\random sayı oyunu\random sayı oyunu\bin\Debug\random sayı oyunu.exe
+D:\visalll\random sayı oyunu\random sayı oyunu\bin\Debug\random sayı oyunu.pdb
+D:\visalll\random sayı oyunu\random sayı oyunu\obj\Debug\random sayı oyunu.csproj.AssemblyReference.cache
+D:\visalll\random sayı oyunu\random sayı oyunu\obj\Debug\random sayı oyunu.csproj.CoreCompileInputs.cache
+D:\visalll\random sayı oyunu\random sayı oyunu\obj\Debug\random sayı oyunu.exe
+D:\visalll\random sayı oyunu\random sayı oyunu\obj\Debug\random sayı oyunu.pdb
